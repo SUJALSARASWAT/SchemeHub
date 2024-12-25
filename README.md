@@ -1,6 +1,4 @@
-Here’s the `README.md` for your **SchemeHub – AI-Powered Financial Scheme Identifier for India Post** project:
 
-```markdown
 # SchemeHub – AI-Powered Financial Scheme Identifier for India Post
 
 SchemeHub is an innovative AI-based system that dynamically identifies and recommends financial schemes (banking & insurance) tailored to individual users based on their demographic and economic profiles. Leveraging machine learning, the project enhances financial inclusion and engagement by providing personalized financial recommendations through India Post.
@@ -68,4 +66,8 @@ We welcome contributions! Feel free to fork the repository, submit pull requests
 For any issues, please open an issue on GitHub.
 ```
 
-This markdown file follows the structure you requested, providing a clean, professional README for your project.
+### Fixes made:
+1. **Closing the code block** for the `pip install` command.
+2. **Minor formatting consistency** in the markdown.
+
+This version is now ready for use.
